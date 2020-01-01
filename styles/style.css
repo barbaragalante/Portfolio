@@ -46,7 +46,7 @@ nav a:hover {
 }
 
 #imagem_principal{
-    background-color: white;
+    background-color: #ffffff;
     object-fit: cover;
     object-position: 0 30%;
     height: 65vh;
