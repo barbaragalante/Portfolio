@@ -10,23 +10,28 @@
 </head>
 <body>
 
-<div id="content" class="header">
+<div id="content">
     <div> 
-            <h1 class="titulo">Adicione uma nova tarefa</h1>
-            <input type="text" id="myInput" placeholder="titulo">
-            <span onclick="newElement()" class="addbtn">ADD</span>
-
-            <ul>
-                    <li>Tarefa 1</li>
-                    <li>Tarefa 2</li>
-                    <li>Tarefa 3</li>
-                    <li>Tarefa 4</li>
-                    <li>Tarefa 5</li>
-                    <li>Tarefa 6</li>
-            
-            </ul>
+        <form>
+            <h1>Adicione uma nova tarefa</h1>
+            <input type="text" id="myInput" placeholder="Digite sua tarefa">
+            <p id="mensagemDeErro"></p>
+            <button id="addBtn" class="addbtn">ADD</button>
+        </form>
+         
+        
+        <ul id="listaCaixa" class="dragindrop">
+                <!-- <li>Tarefa 1</li> -->
+        </ul>
+        <div id="btn">
+            <button id="btnLido">Marcar como lido</button>
+            <button id="btnRemover">Remover tudo</button>
+            <button id="btnSelecionados">Remover Selecionados</button>
+        </div>
+        
+        
     </div>
-
+<script src="js/script.js"></script>
 
 
 </div>

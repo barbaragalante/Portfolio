@@ -44,3 +44,10 @@ nav a:hover {
     object-position: top;
     height: 25vw;
 }
+
+#imagem_principal{
+    background-color: rgb(166, 91, 228);
+    object-fit: cover;
+    object-position: 0 30%;
+    height: 65vh;
+}

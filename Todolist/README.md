@@ -12,20 +12,25 @@ Tem como objetivo exercitar os conhecimento adquiridos em HTML, CSS, Javascript 
 
 ## FASES
 - **Fase 1**
-    - Adicionar itens na lista
-    - Poder dar check neles
-    - Validar campo de texto para não entrar itens vazios
-    - Limpar campo de texto depois que insere o item na lista
+    <!-- - Adicionar itens na lista --> 1
+    <!-- - Poder dar check neles --> 4
+    <!-- - Validar campo de texto para não entrar itens vazios --> 3
+    <!-- - Limpar campo de texto depois que insere o item na lista --> 2
 - **Fase 2**
-    - Poder excluir itens da lista individualmente;
-- **Fase 3**
-    - Marcar todos os itens como feito
-    - Limpar lista, excluir todos os itens da lista
+    <!-- - Poder excluir itens da lista individualmente; --> 5
+    <!-- Criar uma div e guardar dentro da 'ul' pegar o 'li' e guardar dentro da nova div, criar um span e guardar dentro da div. e criar um addeventlistener. Meu comentário! --> 
+- **Fase 3** (botões)
+    <!-- - Marcar todos os itens como feito 
+    - Limpar lista, excluir todos os itens da lista -->
 - **Fase 4**	
-    - Não permitir que um item seja adicionado se só tiver espaços e nenhum texto no input
+    <!-- - Não permitir que um item seja adicionado se só tiver espaços e nenhum texto no input -->
 - **Fase 5**	
-    - Permitir drag and drop pra reorganizar a lista
-
+    <!-- - Permitir drag and drop pra reorganizar a lista
+    - responsivo -->
+ **Fase 6: BÔNUS
+- Editar tarefa
+- Adicionar etiqueta à tarefa
+- Botão "Remover Completos" (quando clicado, ele remove)
 --------------
 
 ## CRONOGRAMA
