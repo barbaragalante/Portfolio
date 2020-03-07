@@ -1,2 +1,2 @@
 # portfólio
-Portifolio com desenvolvido em aula com bootstrap.
+Portifolio de front-end developer desenvolvido em aula com bootstrap.
